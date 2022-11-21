@@ -1,2 +1,2 @@
-# laravel9
-CRUD con Laravel 9
+# laravel_prueba
+repositorio de prueba
